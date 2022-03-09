@@ -1,1 +1,1 @@
-# SuggestionMining
+# Suggestion Classification
